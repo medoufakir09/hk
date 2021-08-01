@@ -1,0 +1,7 @@
+git clone https://github.com/king-hacking/King-Hacking.git
+
+cd King-Hacking
+
+chmod +x King-Tools.sh
+
+bash King-Tools.sh
